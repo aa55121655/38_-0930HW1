@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\user\desktop\c_code 0930homework\0930hw1_2.25\source\main.c(2): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  HW2.25.vcxproj -> C:\Users\user\Desktop\C_code 0930homework\0930HW1_2.25\HW2.25\HW2.25\..\..\temp\debug\HW2.25.exe
